@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     //projects
     const projects = [
-        {live_demo: "#", github_link: "#", proj_img: "images/Chekina-Muteka.jpg", proj_name: "My portfolio", description: "A responsive personal portfolio showcasing web development skills with modern design and interactive elements.", tools_technologies: ["HTML", "CSS", "JS", "VS Code", "GitHub"]}
+        {live_demo: "https://shekinahmm.github.io/Chekina-portfolio/", github_link: "https://github.com/ShekinahMM/Chekina-portfolio/", proj_img: "images/Chekina-Muteka.jpg", proj_name: "My portfolio", description: "A responsive personal portfolio showcasing web development skills with modern design and interactive elements.", tools_technologies: ["HTML", "CSS", "JS", "VS Code", "GitHub"]}
     ];
 
     const projects_container_item = document.getElementById("projects-container-item");
