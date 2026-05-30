@@ -23,9 +23,9 @@ It showcases my projects, skills, and contact information.
 1. Clone the repository:
 ```bash
 git clone https://github.com/ShekinahMM/chekina-portfolio.git
-
+```
 2. Navigate to the project folder:
 ```bash
 cd chekina-portfolio
-
+```
 3. Open index.html in your browser.
