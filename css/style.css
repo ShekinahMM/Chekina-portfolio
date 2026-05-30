@@ -94,7 +94,7 @@ nav a:hover {
     align-items: center;
     justify-content: center;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-                url('D:/Portfolio Website/images/keyboard2.jpg') no-repeat center center/cover;
+                url('../images/keyboard2.jpg') no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 0 20px;
