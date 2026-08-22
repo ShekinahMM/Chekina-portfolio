@@ -5,7 +5,7 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript.
 It showcases my projects, skills, and contact information.
 
 ## Live Demo
-[View Live Portfolio](https://ShekinahMM.github.io/portfolio-website)
+[View Live Portfolio(https://shekinahmm.github.io/chekina-portfolio/)]
 
 ## Tech Stack
 - HTML5
